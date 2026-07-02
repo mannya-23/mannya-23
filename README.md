@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Mannya! 👋</h1>
-
 ---
-
 ### 🌱 about me
 - 📊 interested in **data** — from cleaning it up to finding the story inside it
 - 🤖 building little AI tools on the side (currently cooking up **MealMate** — an AI meal planner project)
