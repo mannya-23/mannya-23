@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Mannya! 👋</h1>
 
-<p align="center">
-  into all things data — turning messy numbers into things that make sense ✨
-</p>
-
 ---
 
 ### 🌱 about me
