@@ -4,7 +4,7 @@
 
 ### 🌱 about me
 - 📊 interested in **data** — from cleaning it up to finding the story inside it
-- 🤖 building little AI tools on the side (currently cooking up **MealMate** — an AI meal planner project
+- 🤖 building little AI tools on the side (currently cooking up **MealMate** — an AI meal planner project)
 
 ### 📫 find me
 - GitHub: [@mannya-23](https://github.com/mannya-23)
